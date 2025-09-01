@@ -1,4 +1,4 @@
-# heart-disease
+# Heart-Disease Predictor
 📌 Overview
 
 This project focuses on predicting the likelihood of heart disease using the UCI Heart Disease dataset. The notebook includes:
